@@ -7,7 +7,7 @@ B. Cross  | user4 | https://dia.lab-emergent360.com | http://lab-emergent360.com
 Bijan C. | user5 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 Bryan | user6 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 Chi C. | user7 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-Crystal A. | user8 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
+Crystal A-W. | user8 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 Erin T. | user9 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 Glen | user10 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 Jack T. | user11 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
