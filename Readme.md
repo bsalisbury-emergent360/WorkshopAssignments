@@ -38,7 +38,10 @@ Jordan H. | user35 | https://dia.lab-emergent360.com | http://lab-emergent360.co
 Ravinder K. | user36 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 Stephen L. | user37 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 Suresh V. | user38 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-Please | let us know in chat | if you don't | see your name listed here
+Lande | user39 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
+Shawn P. | user40 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
+7036577580 | user41 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
+Please... | let us know in chat... | if you don't... | see your name listed here... :-)
 
 
 
