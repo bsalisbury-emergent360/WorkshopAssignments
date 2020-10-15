@@ -13,7 +13,7 @@ Glen | user10 | https://dia.lab-emergent360.com | http://lab-emergent360.com/wor
 Jack T. | user11 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 John C. | user12 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 Kevin C. | user13 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-Laura E. | user34 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
+Laura E. | user14 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 Mike B. | user15 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 Nanpeng C. | user16 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 Raju N. | user17 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
