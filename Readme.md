@@ -38,6 +38,7 @@ James P. | user35 | https://console-openshift-console.apps.openshift4.lab-emerge
 Roger H. | user36 | https://console-openshift-console.apps.openshift4.lab-emergent360.com | http://labs-emergent360.com/workshops/openshift_4_101/
 Ann S. | user37 | https://console-openshift-console.apps.openshift4.lab-emergent360.com | http://labs-emergent360.com/workshops/openshift_4_101/
 Monique | user38 | https://console-openshift-console.apps.openshift4.lab-emergent360.com | http://labs-emergent360.com/workshops/openshift_4_101/
+Keith G. | user39 | https://console-openshift-console.apps.openshift4.lab-emergent360.com | http://labs-emergent360.com/workshops/openshift_4_101/
 Please... | let us know in chat... | if you don't... | see your name listed here... :-)
 
 
